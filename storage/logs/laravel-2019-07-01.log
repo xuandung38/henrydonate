@@ -1,0 +1,18 @@
+[2019-07-01 18:53:51] local.INFO: request : POST /api/callback HTTP/2.0
+Accept:         */*
+Content-Length: 217
+Content-Type:   application/x-www-form-urlencoded
+Host:           henryfan.me
+Referer:        https://tcr.vn/vendor/thesieure/callback.php
+
+callback_sign=cf27a5c6caa4fda9d06d50e3ce4ae8e9&status=1&message=Thanh+cong&amount=6900&declared_value=10000&value=10000&telco=VIETTEL&code=112071619052921&serial=10004511841513&request_id=1338815385_20190701185328_866  
+[2019-07-01 18:53:51] local.ERROR: loine :{"id":186,"user_id":1,"transid":"1338815385_20190701185328_866","telcode":"VIETTEL","code":"112071619052921","serial":"10004511841513","price":10000,"amount":"6900","status":"1","message":"Th\u1ebb \u0111\u00fang.","donate_message":"H\u00f4m nay sinh nh\u1eadt t\u00f4i , \u00f4ng ch\u00fac m\u1eebng t\u00f4i \u0111i","donate_name":"Ph\u1ea1m S\u00e1ng","streamer_id":1,"created_at":"2019-07-01 18:53:30","updated_at":"2019-07-01 18:53:51"}  
+[2019-07-01 19:36:26] local.INFO: request : POST /api/callback HTTP/2.0
+Accept:         */*
+Content-Length: 218
+Content-Type:   application/x-www-form-urlencoded
+Host:           henryfan.me
+Referer:        https://tcr.vn/vendor/thesieure/callback.php
+
+callback_sign=be6bb9ad9f453c3848747b43b2f58e90&status=1&message=Thanh+cong&amount=6700&declared_value=10000&value=10000&telco=VINAPHONE&code=18648248284336&serial=59000006309082&request_id=1338815385_20190701193617_966  
+[2019-07-01 19:36:26] local.ERROR: loine :{"id":187,"user_id":1,"transid":"1338815385_20190701193617_966","telcode":"VINAPHONE","code":"18648248284336","serial":"59000006309082","price":10000,"amount":"6700","status":"1","message":"Th\u1ebb \u0111\u00fang.","donate_message":"L\u00e0m game Garen top \u0111i anh","donate_name":"Luc Nguyen","streamer_id":1,"created_at":"2019-07-01 19:36:18","updated_at":"2019-07-01 19:36:26"}  

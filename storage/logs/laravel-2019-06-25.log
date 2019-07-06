@@ -1,0 +1,108 @@
+[2019-06-25 18:26:45] local.INFO: request : POST /api/callback HTTP/2.0
+Accept:         */*
+Content-Length: 217
+Content-Type:   application/x-www-form-urlencoded
+Host:           henryfan.me
+Referer:        https://tcr.vn/vendor/thesieure/callback.php
+
+callback_sign=7c147b392fbad1d44ce924edaca30a71&status=1&message=Thanh+cong&amount=35000&declared_value=50000&value=50000&telco=VIETTEL&code=715170562725657&serial=10004546047001&request_id=1338815385_20190625182626_66  
+[2019-06-25 18:26:45] local.ERROR: loine :{"id":163,"user_id":1,"transid":"1338815385_20190625182626_66","telcode":"VIETTEL","code":"715170562725657","serial":"10004546047001","price":50000,"amount":"35000","status":"1","message":"Th\u1ebb \u0111\u00fang.","donate_message":"Ch\u00fac anh stream vui v\u1ebb Henry cu ch\u00e0 b\u00e1","donate_name":"Khang ZR","streamer_id":1,"created_at":"2019-06-25 18:26:28","updated_at":"2019-06-25 18:26:45"}  
+[2019-06-25 19:22:40] local.INFO: request : POST /api/callback HTTP/2.0
+Accept:         */*
+Content-Length: 218
+Content-Type:   application/x-www-form-urlencoded
+Host:           henryfan.me
+Referer:        https://tcr.vn/vendor/thesieure/callback.php
+
+callback_sign=56b6568519cb51f4d5ca79f3bc8738fb&status=1&message=Thanh+cong&amount=6800&declared_value=10000&value=10000&telco=VINAPHONE&code=16420675953673&serial=59000006233816&request_id=1338815385_20190625192229_652  
+[2019-06-25 19:22:40] local.ERROR: loine :{"id":164,"user_id":1,"transid":"1338815385_20190625192229_652","telcode":"VINAPHONE","code":"16420675953673","serial":"59000006233816","price":10000,"amount":"6800","status":"1","message":"Th\u1ebb \u0111\u00fang.","donate_message":"Ch\u00e0o Henry cu nh\u1ecf","donate_name":"Tr\u1ea7n L\u1ef1c","streamer_id":1,"created_at":"2019-06-25 19:22:31","updated_at":"2019-06-25 19:22:40"}  
+[2019-06-25 19:25:56] local.INFO: request : POST /api/callback HTTP/2.0
+Accept:         */*
+Content-Length: 218
+Content-Type:   application/x-www-form-urlencoded
+Host:           henryfan.me
+Referer:        https://tcr.vn/vendor/thesieure/callback.php
+
+callback_sign=8baf164864f8e60d84cce9f5f143c691&status=1&message=Thanh+cong&amount=6800&declared_value=10000&value=10000&telco=VINAPHONE&code=37089235876429&serial=59000006233817&request_id=1338815385_20190625192546_547  
+[2019-06-25 19:25:56] local.ERROR: loine :{"id":165,"user_id":1,"transid":"1338815385_20190625192546_547","telcode":"VINAPHONE","code":"37089235876429","serial":"59000006233817","price":10000,"amount":"6800","status":"1","message":"Th\u1ebb \u0111\u00fang.","donate_message":"10\/0 donate 100k. Vi\u1ec7t Nam n\u00f3i l\u00e0 l\u00e0m :)","donate_name":"Tr\u1ea7n L\u1ef1c","streamer_id":1,"created_at":"2019-06-25 19:25:49","updated_at":"2019-06-25 19:25:56"}  
+[2019-06-25 19:36:43] local.INFO: request : POST /api/callback HTTP/2.0
+Accept:         */*
+Content-Length: 218
+Content-Type:   application/x-www-form-urlencoded
+Host:           henryfan.me
+Referer:        https://tcr.vn/vendor/thesieure/callback.php
+
+callback_sign=096bd6831d2dff6cfe400d2468890196&status=1&message=Thanh+cong&amount=6800&declared_value=10000&value=10000&telco=VINAPHONE&code=32831594502350&serial=59000006233869&request_id=1338815385_20190625193635_558  
+[2019-06-25 19:36:43] local.ERROR: loine :{"id":166,"user_id":1,"transid":"1338815385_20190625193635_558","telcode":"VINAPHONE","code":"32831594502350","serial":"59000006233869","price":10000,"amount":"6800","status":"1","message":"Th\u1ebb \u0111\u00fang.","donate_message":"C\u1ed1 l\u00ean anh \u01a1i, k\u1ebbo ch\u00fang n\u00f3 \u0111\u1ea7u h\u00e0ng","donate_name":"Tr\u1ea7n L\u1ef1c","streamer_id":1,"created_at":"2019-06-25 19:36:37","updated_at":"2019-06-25 19:36:43"}  
+[2019-06-25 19:44:35] local.INFO: request : POST /api/callback HTTP/2.0
+Accept:         */*
+Content-Length: 217
+Content-Type:   application/x-www-form-urlencoded
+Host:           henryfan.me
+Referer:        https://tcr.vn/vendor/thesieure/callback.php
+
+callback_sign=98b1d26faf4959b3a8aa5513f05afc60&status=1&message=Thanh+cong&amount=7000&declared_value=10000&value=10000&telco=VIETTEL&code=211851284082321&serial=10004525520163&request_id=1338815385_20190625194428_207  
+[2019-06-25 19:44:35] local.ERROR: loine :{"id":167,"user_id":1,"transid":"1338815385_20190625194428_207","telcode":"VIETTEL","code":"211851284082321","serial":"10004525520163","price":10000,"amount":"7000","status":"1","message":"Th\u1ebb \u0111\u00fang.","donate_message":"Anh \u01a1i ng\u00e2n h\u00e0ng ngh\u1ec9 l\u00e0m vi\u1ec7c, mai em donate b\u00f9 nh\u00e9","donate_name":"Tr\u1ea7n L\u1ef1c","streamer_id":1,"created_at":"2019-06-25 19:44:30","updated_at":"2019-06-25 19:44:34"}  
+[2019-06-25 19:58:05] local.INFO: request : POST /api/callback HTTP/2.0
+Accept:         */*
+Content-Length: 218
+Content-Type:   application/x-www-form-urlencoded
+Host:           henryfan.me
+Referer:        https://tcr.vn/vendor/thesieure/callback.php
+
+callback_sign=12c08b0b133094366e5e6150bcd0dbf4&status=1&message=Thanh+cong&amount=6800&declared_value=10000&value=10000&telco=VINAPHONE&code=81861878224285&serial=81861878224285&request_id=1338815385_20190625195756_503  
+[2019-06-25 19:58:05] local.ERROR: loine :{"id":168,"user_id":1,"transid":"1338815385_20190625195756_503","telcode":"VINAPHONE","code":"81861878224285","serial":"81861878224285","price":10000,"amount":"6800","status":"1","message":"Th\u1ebb \u0111\u00fang.","donate_message":"L\u00e0m game Jhin \u0111i anh","donate_name":"Tr\u1ea7n L\u1ef1c","streamer_id":1,"created_at":"2019-06-25 19:57:58","updated_at":"2019-06-25 19:58:05"}  
+[2019-06-25 20:43:17] local.INFO: request : POST /api/callback HTTP/2.0
+Accept:         */*
+Content-Length: 218
+Content-Type:   application/x-www-form-urlencoded
+Host:           henryfan.me
+Referer:        https://tcr.vn/vendor/thesieure/callback.php
+
+callback_sign=99613bdbd66cbd313e40c3bba99aa3b3&status=1&message=Thanh+cong&amount=35000&declared_value=50000&value=50000&telco=VIETTEL&code=818659631211993&serial=10004531221420&request_id=1338815385_20190625204311_439  
+[2019-06-25 20:43:17] local.ERROR: loine :{"id":169,"user_id":1,"transid":"1338815385_20190625204311_439","telcode":"VIETTEL","code":"818659631211993","serial":"10004531221420","price":50000,"amount":"35000","status":"1","message":"Th\u1ebb \u0111\u00fang.","donate_message":"Ch\u00fac em bu\u1ed5i \u0111\u00eam vui v\u1ebb :))","donate_name":"Th\u00f4ng Lucky","streamer_id":1,"created_at":"2019-06-25 20:43:13","updated_at":"2019-06-25 20:43:17"}  
+[2019-06-25 20:50:22] local.INFO: request : POST /api/callback HTTP/2.0
+Accept:         */*
+Content-Length: 216
+Content-Type:   application/x-www-form-urlencoded
+Host:           henryfan.me
+Referer:        https://tcr.vn/vendor/thesieure/callback.php
+
+callback_sign=36e18aaf0d8f533a8ac830490e04846d&status=3&message=Sai+menh+gia&amount=0&declared_value=30000&value=50000&telco=VIETTEL&code=017790717975387&serial=10004531221461&request_id=1338815385_20190625205016_715  
+[2019-06-25 20:50:22] local.ERROR: loine :{"id":170,"user_id":1,"transid":"1338815385_20190625205016_715","telcode":"VIETTEL","code":"017790717975387","serial":"10004531221461","price":30000,"amount":0,"status":2,"message":"Th\u1ebb sai.","donate_message":"B\u1ecf \u0111i em, vui th\u00ec ch\u01a1i kh\u00f4ng vui th\u00ec th\u00f4i m\u00e0 :))","donate_name":"Th\u00f4ng Lucky","streamer_id":1,"created_at":"2019-06-25 20:50:18","updated_at":"2019-06-25 20:50:22"}  
+[2019-06-25 20:54:43] local.INFO: request : POST /api/callback HTTP/2.0
+Accept:         */*
+Content-Length: 217
+Content-Type:   application/x-www-form-urlencoded
+Host:           henryfan.me
+Referer:        https://tcr.vn/vendor/thesieure/callback.php
+
+callback_sign=ec6c5e635dc3c321b31faf70c9e3cf7a&status=1&message=Thanh+cong&amount=35000&declared_value=50000&value=50000&telco=VIETTEL&code=912311332222251&serial=10004531221467&request_id=1338815385_20190625205433_50  
+[2019-06-25 20:54:43] local.ERROR: loine :{"id":171,"user_id":1,"transid":"1338815385_20190625205433_50","telcode":"VIETTEL","code":"912311332222251","serial":"10004531221467","price":50000,"amount":"35000","status":"1","message":"Th\u1ebb \u0111\u00fang.","donate_message":"B\u1ecf \u0111i em, vui th\u00ec ch\u01a1i kh\u00f4ng vui th\u00ec th\u00f4i m\u00e0 :)))","donate_name":"Th\u00f4ng Lucky","streamer_id":1,"created_at":"2019-06-25 20:54:35","updated_at":"2019-06-25 20:54:43"}  
+[2019-06-25 20:58:04] local.INFO: request : POST /api/callback HTTP/2.0
+Accept:         */*
+Content-Length: 218
+Content-Type:   application/x-www-form-urlencoded
+Host:           henryfan.me
+Referer:        https://tcr.vn/vendor/thesieure/callback.php
+
+callback_sign=70594fefd87fee736a39513a7a2e11da&status=1&message=Thanh+cong&amount=35000&declared_value=50000&value=50000&telco=VIETTEL&code=910126755649809&serial=10004531221478&request_id=1338815385_20190625205751_387  
+[2019-06-25 20:58:04] local.ERROR: loine :{"id":172,"user_id":1,"transid":"1338815385_20190625205751_387","telcode":"VIETTEL","code":"910126755649809","serial":"10004531221478","price":50000,"amount":"35000","status":"1","message":"Th\u1ebb \u0111\u00fang.","donate_message":"H\u1eb9n ra em ch\u01a1i bao l\u00e2u m\u00e0 ch\u01b0a c\u00f3 d\u1ecbp ra \u0111\u01b0\u1ee3c, th\u00f4ng c\u1ea3m cho anh nha. hi hi!","donate_name":"Th\u00f4ng Lucky","streamer_id":1,"created_at":"2019-06-25 20:57:54","updated_at":"2019-06-25 20:58:04"}  
+[2019-06-25 21:01:16] local.INFO: request : POST /api/callback HTTP/2.0
+Accept:         */*
+Content-Length: 218
+Content-Type:   application/x-www-form-urlencoded
+Host:           henryfan.me
+Referer:        https://tcr.vn/vendor/thesieure/callback.php
+
+callback_sign=cb76d993a7e44486916ca2991bc18b83&status=1&message=Thanh+cong&amount=35000&declared_value=50000&value=50000&telco=VIETTEL&code=618613947783985&serial=10004531221485&request_id=1338815385_20190625210110_178  
+[2019-06-25 21:01:16] local.ERROR: loine :{"id":173,"user_id":1,"transid":"1338815385_20190625210110_178","telcode":"VIETTEL","code":"618613947783985","serial":"10004531221485","price":50000,"amount":"35000","status":"1","message":"Th\u1ebb \u0111\u00fang.","donate_message":"Gi\u1edd \u0111\u00e2u c\u00f3 th\u1eddi gian ch\u01a1i \u0111\u00e2u em, thi tho\u1ea3ng v\u00f4 donate \u1ee7ng h\u1ed9 em thui h\u00e0 :))","donate_name":"Th\u00f4ng Lucky","streamer_id":1,"created_at":"2019-06-25 21:01:13","updated_at":"2019-06-25 21:01:16"}  
+[2019-06-25 21:26:00] local.INFO: request : POST /api/callback HTTP/2.0
+Accept:         */*
+Content-Length: 221
+Content-Type:   application/x-www-form-urlencoded
+Host:           henryfan.me
+Referer:        https://tcr.vn/vendor/thesieure/callback.php
+
+callback_sign=3cef4fc6d54f529180f4e424b8e717aa&status=1&message=Thanh+cong&amount=140000&declared_value=200000&value=200000&telco=VIETTEL&code=611437225981088&serial=10003619022639&request_id=1338815385_20190625212253_514  
+[2019-06-25 21:26:00] local.ERROR: loine :{"id":174,"user_id":1,"transid":"1338815385_20190625212253_514","telcode":"VIETTEL","code":"611437225981088","serial":"10003619022639","price":200000,"amount":"140000","status":"1","message":"Th\u1ebb \u0111\u00fang.","donate_message":"Kh\u00f4ng \u0111\u01b0\u1ee3c 10 0 nh\u01b0ng anh v\u1eabn \u1ee7ng h\u1ed9 em, c\u1ed1 g\u1eafng em nh\u00e9 :))","donate_name":"Th\u00f4ng Lucky","streamer_id":1,"created_at":"2019-06-25 21:22:56","updated_at":"2019-06-25 21:26:00"}  
